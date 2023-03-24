@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Mastruz com Leite"},
+                  "SongTitle": {"S": "A Saga de um Vaqueiro"},
+                  "AlbumTitle": {"S": "Mastruz com Leite ao vivo"},
+                  "SongYear": {"S": "1998"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Mastruz com Leite"},
+                  "SongTitle": {"S": "Amor Infinito"},
+                  "AlbumTitle": {"S": "Mastruz com Leite ao vivo"},
+                  "SongYear": {"S": "1998"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S": "Mastruz com Leite"},
+                    "SongTitle": {"S": "Aconchengo do amor"},
+                    "AlbumTitle": {"S": "Mastruz com Leite ao vivo"},
+                    "SongYear": {"S": "1998"}
+                }
+            }
+        }
+      ]
+}
